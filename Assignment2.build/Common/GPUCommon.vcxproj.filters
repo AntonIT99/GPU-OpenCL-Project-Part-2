@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment2\Common\CAssignmentBase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment2\Common\CLUtil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment2\Common\CTimer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment2\Common\CAssignmentBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment2\Common\CLUtil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment2\Common\CTimer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment2\Common\CommonDefs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment2\Common\IComputeTask.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment2\Common\IGUIEnabledComputeTask.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment2\Common\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{3A2B5038-AB76-3B67-8EBA-26CE85FC4E14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B5F0321E-BCED-3685-800C-2631D83BA644}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

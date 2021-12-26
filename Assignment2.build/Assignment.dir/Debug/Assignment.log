@@ -1,0 +1,6 @@
+﻿  CScanTask.cpp
+C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment2\Assignment2\CScanTask.cpp(34,1): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "unsigned int", Datenverlust möglich
+C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment2\Assignment2\CScanTask.cpp(82,60): warning C4267: "=": Konvertierung von "size_t" nach "unsigned int", Datenverlust möglich
+C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment2\Assignment2\CScanTask.cpp(233,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment2\Assignment2\CScanTask.cpp(249,86): warning C4267: "=": Konvertierung von "size_t" nach "unsigned int", Datenverlust möglich
+  Assignment.vcxproj -> C:\Users\alpha\source\repos\Test_Visual_Studio\Assignment2\Assignment2.build\Debug\Assignment.exe

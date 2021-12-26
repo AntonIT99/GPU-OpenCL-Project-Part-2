@@ -1,0 +1,4 @@
+C:/Users/alpha/source/repos/Test_Visual_Studio/Assignment2/Assignment2.build/CMakeFiles/Assignment.dir
+C:/Users/alpha/source/repos/Test_Visual_Studio/Assignment2/Assignment2.build/CMakeFiles/ALL_BUILD.dir
+C:/Users/alpha/source/repos/Test_Visual_Studio/Assignment2/Assignment2.build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/alpha/source/repos/Test_Visual_Studio/Assignment2/Assignment2.build/Common/CMakeFiles/GPUCommon.dir
